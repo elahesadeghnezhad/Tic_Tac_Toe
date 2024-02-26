@@ -1,0 +1,9 @@
+E:\university\c#\my cods\tamrin3.tictactoe\tamrin3.tictactoe\bin\Debug\tamrin3.tictactoe.exe.config
+E:\university\c#\my cods\tamrin3.tictactoe\tamrin3.tictactoe\bin\Debug\tamrin3.tictactoe.exe
+E:\university\c#\my cods\tamrin3.tictactoe\tamrin3.tictactoe\bin\Debug\tamrin3.tictactoe.pdb
+E:\university\c#\my cods\tamrin3.tictactoe\tamrin3.tictactoe\obj\Debug\tamrin3.tictactoe.csprojResolveAssemblyReference.cache
+E:\university\c#\my cods\tamrin3.tictactoe\tamrin3.tictactoe\obj\Debug\tamrin3.tictactoe.Form1.resources
+E:\university\c#\my cods\tamrin3.tictactoe\tamrin3.tictactoe\obj\Debug\tamrin3.tictactoe.Properties.Resources.resources
+E:\university\c#\my cods\tamrin3.tictactoe\tamrin3.tictactoe\obj\Debug\tamrin3.tictactoe.csproj.GenerateResource.Cache
+E:\university\c#\my cods\tamrin3.tictactoe\tamrin3.tictactoe\obj\Debug\tamrin3.tictactoe.exe
+E:\university\c#\my cods\tamrin3.tictactoe\tamrin3.tictactoe\obj\Debug\tamrin3.tictactoe.pdb
